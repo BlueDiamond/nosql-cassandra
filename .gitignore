@@ -1,4 +1,12 @@
 *.class
+.settings
+.classpath
+.project
+.metadata
+.springBeans
+bin
+target
+.DS_Store
 
 # Package Files #
 *.jar
